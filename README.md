@@ -1,9 +1,7 @@
 ## Hii 👋 I'm Amar Bhise 
 
 
-**AmarBhise97/AmarBhise97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 # 💫 About Me:
 👯 I’m looking to collaborate on:<br>Open-source projects and backend development work<br><br>🤝 I’m looking for help with:<br>Advanced system design and microservices architecture<br><br>🌱 I’m currently learning:<br>Spring Boot, Microservices, and Cloud technologies<br><br>💬 Ask me about:<br>Java, Spring Boot, REST APIs, and Backend Development, React, MySQL<br><br>⚡ Fun fact:<br>I enjoy solving coding challenges and debugging complex issues
