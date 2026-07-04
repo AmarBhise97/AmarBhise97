@@ -13,16 +13,24 @@
 
 # 🚀 Featured Projects
 
-## 1. IntBuddy - AI Powered Interview Preparation Platform
+## 🧠 IntBuddy –  Interview Preparation Platform
 
-An interview preparation platform built with Spring Boot and React that helps users practice interviews, generate AI-based questions, manage profiles, and improve technical skills.
+Founder and Developer of **IntBuddy**, an  interview preparation platform designed to help students and job seekers improve their technical and aptitude skills through interactive practice and real-world interview experiences.
 
-### 🔹 Tech Stack
+### ✨ Features
+- interview preparation
+- User authentication with JWT
+- Email and OTP verification
+- Secure REST APIs
+- Responsive UI
+- Available on all modern browsers (Chrome, Edge, Firefox, Safari)
+- Optimized for desktop and mobile devices
+
+ 
+### 🛠 Tech Stack
 Java • Spring Boot • React • MySQL • Redis • JWT • Twilio • Gmail SMTP
 
 🌐 **Live Demo:** https://int-buddy-frontend.vercel.app/
-
----
 
 ## 2. Student Grader
 
